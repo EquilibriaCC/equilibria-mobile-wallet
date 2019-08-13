@@ -1,0 +1,3 @@
+[submodule "equilibria-webwallet"]
+	path = equilibria-webwallet
+	url = https://github.com/EquilibriaCC/equilibria-webwallet.git

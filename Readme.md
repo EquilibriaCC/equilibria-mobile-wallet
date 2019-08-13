@@ -1,11 +1,11 @@
-# Masari Mobile Wallet
-Official repository for the Android & Ios mobile wallet
+# Equilibria Mobile Wallet
 
-The project is using the [official masari webwallet](https://github.com/masari-project/masari-webwallet) and both projects are tightly linked together.
+A mobile wallet built using the [equilibria webwallet](https://github.com/equilibriacc/equilibria-webwallet) with Apache Cordova
 
-# Technologies
-The project is build using Apache Cordova and wraps the webwallet and adds native functionalities for a better user experience.  
-Most of the code is then handled by this other project.
+# Build
 
-# How to build
-See [the instructions](Compile.md)
+Easily built with `cordova build android`
+
+# Thanks
+
+Based off of the webwallet/cordova project from [Masari](https://getmasari.org)

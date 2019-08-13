@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.masari.wallet" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Masari</name>
+<widget id="org.equilibria.wallet" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Equilibria</name>
     <description>
-		Official Masari Wallet
+		Equilibria Android Wallet
     </description>
-    <author email="dev@getmasari.org" href="https://getmasari.org">
+    <author email="somebody@equilibria.network" href="https://equilibria.network">
         Masari Team
     </author>
     <content src="index.html" />
